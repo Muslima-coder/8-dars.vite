@@ -17,12 +17,7 @@ function App(){
 return(
 <>
 <Header/>
-{/* <Hero/>
-<Projects/>
-<Technologies/>
-<Additional/>
-<AboutMe/>
-<Footer/> */}
+<Hero/>
 </>
  )
 }
