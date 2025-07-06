@@ -17,12 +17,12 @@ function App(){
 return(
 <>
 <Header/>
-<Hero/>
+{/* <Hero/>
 <Projects/>
 <Technologies/>
 <Additional/>
 <AboutMe/>
-<Footer/>
+<Footer/> */}
 </>
  )
 }
