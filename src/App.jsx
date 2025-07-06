@@ -18,6 +18,7 @@ return(
 <>
 <Header/>
 <Hero/>
+<Projects/>
 </>
  )
 }

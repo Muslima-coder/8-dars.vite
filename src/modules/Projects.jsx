@@ -34,7 +34,7 @@ function Projects(){
         <section className="pb-[320px]">
             <div className="containers">
                 <Heading extraClass={"!mb-[93px]"} title={"Projects"}/>
-                <div className="flex justify-between flex-wrap gap-[97px]">
+                <div className="flex-col gap-[20px] justify-center mx-auto sm:mx-0 flex sm:flex-row sm:justify-between flex-wrap sm:gap-[97px]">
                 {ProjectList.map(item => <ProjectItem key={item.id} item={item} /> )}
                 </div>
             </div>
