@@ -10,38 +10,38 @@ function Additional(){
             <div className="flex flex-col items-center sm:items-start  gap-[32px] sm:gap-0 sm:flex-row justify-between">
 
                 <div className="flex flex-col sm:mx mx-auto gap-[32px]">
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
-                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={" Git"}/>
+                    <div className="flex items-center ">
+                        <div className="bg-[rgba(255,255,255,1)] mr-[15px] w-[10px] h-[10px] rounded-full "></div>
+                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"Git"}/>
                     </div>
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
-                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={" Quick learning"}/>
+                    <div className="flex items-center ">
+                        <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
+                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"Quick learning"}/>
                     </div>
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
-                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={" RWD"}/>
+                    <div className="flex items-center ">
+                        <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
+                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"RWD"}/>
                     </div>
                 </div>
 
                  <div className="flex flex-col sm:mx mx-auto gap-[32px]">
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
-                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={" Wordpress"}/>
+                    <div className="flex items-center ">
+                        <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
+                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"Wordpress"}/>
                     </div>
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
+                    <div className="flex items-center ">
+                        <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
                         <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"Engagement"}/>
                     </div>
                 </div>
 
                  <div className="flex flex-col sm:mx mx-auto gap-[32px]">
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
-                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={" Teamwork"}/>
+                    <div className="flex items-center ">
+                        <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
+                        <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"Teamwork"}/>
                     </div>
-                    <div className="flex items-center gap-[15px] ">
-                        <div className="bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
+                    <div className="flex items-center ">
+                        <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
                         <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"B2 english"}/>
                     </div>
                 </div>
