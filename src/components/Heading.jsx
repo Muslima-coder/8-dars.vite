@@ -1,7 +1,7 @@
 
 const Heading = ({title, extraClass}) => {
     return(
-        <h2 className={`font-semibold text-[60px] text-[rgba(255,255,255,1)] mb-[34px] ${extraClass}`} >{title}</h2>
+        <h2 className={`font-normal text-[20px] mb-[20px] sm:font-semibold sm:text-[60px] text-[rgba(255,255,255,1)] sm:mb-[34px] ${extraClass}`} >{title}</h2>
     )
 }
 
