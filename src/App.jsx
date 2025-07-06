@@ -7,6 +7,7 @@ return(
 <Hero/>
 <Projects/>
 <Technologies/>
+<Additional/>
 </>
  )
 }
