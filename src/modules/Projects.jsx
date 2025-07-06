@@ -33,8 +33,8 @@ function Projects(){
     return(
         <section className="pb-[320px]">
             <div className="containers">
-                <Heading extraClass={"!mb-[93px]"} title={"Projects"}/>
-                <div className="flex-col gap-[20px] justify-center mx-auto sm:mx-0 flex sm:flex-row sm:justify-between flex-wrap sm:gap-[97px]">
+                <Heading extraClass={"!mb-[93px] !sm:mx-0 !mx-auto !text-start !text-center "} title={"Projects"}/>
+                <div className="flex-col gap-[20px] sm:mx-0 flex sm:flex-row sm:justify-between flex-wrap sm:gap-[97px]">
                 {ProjectList.map(item => <ProjectItem key={item.id} item={item} /> )}
                 </div>
             </div>
