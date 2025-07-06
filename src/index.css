@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@font-face {
+  font-display: swap; 
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../src/assets/fonts/') format('woff2');
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../src/assets/fonts/fonts/poppins-v23-latin-500.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../src/assets/fonts/fonts/poppins-v23-latin-600.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../src/assets/fonts/fonts/poppins-v23-latin-700.woff2') format('woff2'); 
+}
+
+*{
+    box-sizing: border-box;
+}
+.containers{
+    width: 1350px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.btn-bg{
+  background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+
+}
+
+.hero-section{
+  background-image: url("../src/assets/image/hero-bg.png");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: 510px;
+}
+
+.html{
+  background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+}
