@@ -12,10 +12,10 @@ function Header(){
                  <img src={Logo} alt="site logo" width={47} height={47}/>
                  <span className=" font-medium text-[30px] text-[rgba(255,255,255,1)]">Portfolio</span>
               </a>
-              <nav className="flex gap-[40px] items-center">
+              <nav className="hidden sm:flex gap-[40px] items-center">
                {navList.map((item, index) => <NavLink key={index} title={item}/>)}
               </nav>
-              <div className="flex items-center gap-[20px]">
+              <div className="flex items-center gap-[10px] sm:gap-[20px]">
                 <button><GitHubIcon/></button>
                 <button><LinKedIcon/></button>
                 <button><FigmaIcon/></button>
