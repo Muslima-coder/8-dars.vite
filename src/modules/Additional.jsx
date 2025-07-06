@@ -6,7 +6,7 @@ function Additional(){
     return(
         <section className="sm:pb-[329px] pb-[100px]">
             <div className="containers">
-            <Heading extraClass={"!sm:mb-[82px] mb-[30px]"} title={"Additional technologies and skills"}/>
+            <Heading extraClass={"!sm:mb-[82px] !mb-[30px] sm:text-start text-center"} title={"Additional technologies and skills"}/>
             <div className="flex flex-col items-center sm:items-start  gap-[32px] sm:gap-0 sm:flex-row justify-between">
 
                 <div className="flex flex-col sm:mx mx-auto gap-[32px]">
