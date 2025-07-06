@@ -8,6 +8,7 @@ return(
 <Projects/>
 <Technologies/>
 <Additional/>
+<AboutMe/>
 </>
  )
 }
