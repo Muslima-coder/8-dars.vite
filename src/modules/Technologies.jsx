@@ -7,7 +7,7 @@ function Technologies(){
             <div className="containers">
                 <Heading extraClass={"!mb-[133px]"} title={"Technologies"}/>
 
-                <div className="mx-auto w-[1300px] flex flex-col gap-[54px] ">
+                <div className="mx-auto sm:w-[1300px] w-[300px] flex flex-col gap-[54px] ">
                     <div>
                         <div className="px-[20px] flex justify-between mb-1">
                             <Text extraClass={"!mb-0"} title={"Html"}/>
