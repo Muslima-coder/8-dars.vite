@@ -36,7 +36,7 @@ function Additional(){
                 </div>
 
                  <div className="flex flex-col sm:mx mx-auto gap-[32px]">
-                    <div className="flex items-center ">
+                    <div className="flex items-center">
                         <div className=" mr-[15px] bg-[rgba(255,255,255,1)] w-[10px] h-[10px] rounded-full "></div>
                         <Text extraClass={"!text-[rgba(255,255,255,1)] !mb-0"} title={"Teamwork"}/>
                     </div>
