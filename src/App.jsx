@@ -1,4 +1,4 @@
-import { AboutMe, Additional, Header, Hero, Projects, Technologies } from "./modules"
+import { AboutMe, Additional, Footer, Header, Hero, Projects, Technologies } from "./modules"
 
 function App(){
 return(
@@ -9,6 +9,7 @@ return(
 <Technologies/>
 <Additional/>
 <AboutMe/>
+<Footer/>
 </>
  )
 }
