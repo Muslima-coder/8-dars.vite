@@ -5,7 +5,7 @@ function Technologies(){
     return(
         <section className="pb-[132px]">
             <div className="containers">
-                <Heading extraClass={"!mb-[133px]"} title={"Technologies"}/>
+                <Heading extraClass={"!sm:mb-[133px] !mb-[30px] sm:text-start text-center"} title={"Technologies"}/>
 
                 <div className="mx-auto sm:w-[1300px] w-[300px] flex flex-col gap-[54px] ">
                     <div>
