@@ -6,7 +6,7 @@ function Header(){
   const navList = ["Projects", "Technologies", "About me"]
       return(
         <header>
-            <div className="sm:containers">
+            <div className="containers">
              <div className=" py-[44px] flex justify-between items-center">
                <a className="flex gap-[12px] items-center" href="/">
                  <img src={Logo} alt="site logo" width={47} height={47}/>

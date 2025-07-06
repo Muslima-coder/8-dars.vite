@@ -33,7 +33,7 @@
     box-sizing: border-box;
 }
 .containers{
-    width: 1350px;
+    max-width: 1350px;
     margin: 0 auto;
     padding: 0 15px;
 }
